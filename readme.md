@@ -27,9 +27,9 @@ Gracias a su sistema de confirmaciones la AntomCoin es un activo seguro dentro d
 ### Enlaces de interés
 
 * **Pagina Web:** [antomcoin.com](http://www.antomcoin.com)
-* **Twitter:** [anntomcoinve]
+* **Twitter:** [anntomcoinve](https://twitter.com/antomcoinve)
 * **Telegram:** [Español](https://t.me/antomcoin_es)
-* **Telegram:** [English] (https://t.me/antomcoin_en)
+* **Telegram:** [English](https://t.me/antomcoin_en)
 * **Explorer:** proximamente.... 
 
 ### Compilar en Ubuntu 16.04 o 18.04
