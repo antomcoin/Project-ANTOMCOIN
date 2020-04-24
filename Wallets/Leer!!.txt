@@ -1,0 +1,3 @@
+Para sincronizar correctamente su billetera antomcoin, 
+use el archivo antomcoin.conf y colóquelo en la carpeta 
+APP DATA - ROAMING - ANTOMCOIN

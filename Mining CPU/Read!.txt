@@ -1,0 +1,2 @@
+Change the following values ​​in your miner to extract your first blocks in the cpuminer file!
+cpuminer.exe -a ## algorithm ## -o ## url of the pool ## -u ## wallet ## -p ## password ##

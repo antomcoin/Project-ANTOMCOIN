@@ -1,0 +1,1 @@
+sgminer -k scrypt -o stratum+tcp://eu.bsod.pw:2632 -u AKcDDv1rcWsnHYPHK2RbFuUCMZq8y9FCgE -p x

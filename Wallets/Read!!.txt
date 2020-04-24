@@ -1,0 +1,3 @@
+To correctly synchronize your fantomcoin wallet please use the 
+antomcoin.conf 
+file and put it in the APP DATA - ROAMING - ANTOMCOIN folder.

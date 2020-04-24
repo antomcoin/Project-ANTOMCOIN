@@ -1,0 +1,1 @@
+cpuminer.exe -a scrypt -o stratum+tcp://stratum.yourpool.org:4278 -u AJUhCqjRmCb3pTW3sXMhYFWPBS1HfJYjjv -p c=ANC
